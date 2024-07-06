@@ -5,3 +5,5 @@ This snake game consists of a regular snake game, where snake will have to eat f
 2. A moving obstacle will emerge regularly, at random positions, and snake would have to avoid this obstacle in order for the game to be continued.
 
 3. Fruits are in red, obstacles are in pink and blue. Snake is in greenish shade.
+
+## Access the game on :- https://wiz-2.github.io/Snake-Path/ 
